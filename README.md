@@ -1,4 +1,4 @@
-# Feature Representations & Robustness in Image Classification
+# Muffin or Puppy? Evaluating ML Models Under Real-World Image Variations
 
 A comparative machine learning study investigating how feature representations influence classification accuracy, robustness, and generalization under distribution shifts.
 
